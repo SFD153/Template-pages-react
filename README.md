@@ -50,6 +50,7 @@ To run this project, you'll need the following:
     - Registration page: /register
 3. Use these template pages as a foundation for building your actual application.
 
+
 ## Folder Structure
 
 ```
