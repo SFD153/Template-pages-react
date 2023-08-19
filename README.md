@@ -32,7 +32,7 @@ To run this project, you'll need the following:
     ```sh
     npm install
 
-3. Configure your .env file:
+3. Start the development server:
 
     ```sh
     npm start
