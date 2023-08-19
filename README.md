@@ -51,21 +51,23 @@ To run this project, you'll need the following:
 3. Use these template pages as a foundation for building your actual application.
 
 ## Folder Structure
- 
-react-template-pages/
-  ├── src/
-  │   ├── components/
-  │   │   ├── Lock.js
-  │   │   ├── Login.js
-  │   │   ├── Pricing.js
-  │   │   ├── Profile.js
-  │   │   ├── Register.js
-  │   ├── App.js
-  │   ├── index.js
-  │   ├── ...
-  ├── public/
-  ├── package.json
-  ├── ...
+
+```
+    Template-pages-react/
+    ├── src/
+    │   ├── components/
+    │   │   ├── Lock.js
+    │   │   ├── Login.js
+    │   │   ├── Pricing.js
+    │   │   ├── Profile.js
+    │   │   ├── Register.js
+    │   ├── App.js
+    │   ├── index.js
+    │   ├── ...
+    ├── public/
+    ├── package.json
+    ├── ...
+```
 
 ## Contributing
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
